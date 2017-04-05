@@ -1,26 +1,17 @@
-# LetsChat
 
-LetsChat is a Android chat application based on Openfire XMPP and Smack.
+This project is built with openfire.
 
 ## Features
 
 - register/login
-- send location/image/plain text
-- TLS support
+- send location/image/Video/Gif/plain text
 - chat history
 - avatars
 - view contact's information (vCard)
 - contact search
 - update status
 - delete messages
-- material design
+- forward and copy messages
+- Group chat
+- emoji support
 
-## Sample Application
-The sample application (the source is in the repository) has been published onto Google Play for easy access:
-
-[![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](https://play.google.com/store/apps/details?id=com.mstr.letschat)
-
-## Libraries
-Libraries used in this project include:
-- [MemorizingTrustManager](https://github.com/ge0rg/MemorizingTrustManager)
-- [android-cropimage](https://github.com/lvillani/android-cropimage)
